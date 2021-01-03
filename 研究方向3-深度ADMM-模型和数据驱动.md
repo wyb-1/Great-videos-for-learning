@@ -1,0 +1,24 @@
+#  一、研究方向：模型和数据双驱动
+
+- [导师：西交大孙剑主页](http://gr.xjtu.edu.cn/web/jiansun/chinese)
+
+## 1、paper1:深度admm-2016-NIPS-西交大-cited450
+
+- [论文pdf：Deep ADMM-Net for Compressive Sensing MRI](http://gr.xjtu.edu.cn/c/document_library/get_file?folderId=1401787&name=DLFE-85574.pdf)
+
+- [论文：解说博客](https://www.cnblogs.com/XiangGu/p/9190647.html)
+  - [代码:matlab](https://github.com/search?q=Deep+ADMM-Net)
+  - [补充说明：北大博后代码:ADMM-net (for video SCI)](https://github.com/mengziyi64/ADMM-net)
+  - [补充说明：matlab和python代码](https://github.com/PotatoThanh/ADMM-NeuralNetworks)
+  - [大量代码仓库](https://github.com/search?o=desc&q=ADMM-NET&s=stars&type=Repositories)
+
+
+
+## 2、paper2:ADMM-CSNet-2019
+
+- [论文pdf:ADMM-CSNet: A Deep Learning Approach for Image Compressive Sensing](https://ieeexplore.ieee.org/abstract/document/8550778)
+
+  - [代码：matlab](https://github.com/yangyan92/ADMM-CSNet)
+  - [谷歌学术被引情况](https://scholar.lanfanshu.cn/scholar?cites=18618214628876747&as_sdt=2005&sciodt=0,5&hl=zh-CN)
+  - 对该论文的评价：革命性，把优化（迭代格式）和深度学习结合起来，不用设置损失函数，学习损失函数就够了
+
