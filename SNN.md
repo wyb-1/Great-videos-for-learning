@@ -8,4 +8,9 @@
 - [20200601-普渡大学：RMP-SNN: Residual Membrane Potential Neuron for Enabling Deeper High-Accuracy and Low-Latency ](https://www.youtube.com/watch?v=IsAqBi3QniA)
 
   - 作者：Bing Han，Gopalakrishnan Srinivasan，Kaushik Roy描述：尖峰神经网络（SNN）最近引起了广泛的研究兴趣，因为第三代人工神经网络可以实现低功耗事件驱动的数据分析。通过将经过训练的模拟神经网络（ANN）（包括整流线性单位（ReLU））转换为由具有“适当”触发阈值的集成并发射神经元组成的SNN，可以获得用于图像识别任务的性能最好的SNN。与原始ANN相比，转换后的SNN通常会导致准确性损失，并且需要大量的推理时间步才能达到最佳准确性。我们发现，转换后的SNN的性能下降源于使用““硬重置”” 尖刺神经元，一旦其膜电位超过激发阈值，就会被驱动到固定的复位电位，从而导致SNN推理期间的信息丢失。我们提出使用“软重置”尖峰神经元模型的ANN-SNN转换，称为残留膜电位（RMP）尖峰神经元，该模型在触发时刻将““残留””膜电位保持在阈值以上。我们在具有挑战性的数据集（包括CIFAR-10（93.63％top-1），CIFAR-100（70.93％top--）上使用RMP神经元对VGG-16，ResNet-20和ResNet-34 SNN进行了近乎无损的ANN-SNN转换1）和ImageNet（73.09％的top-1准确性）。我们的结果还表明，RMP-SNN具有““硬重置”“，超过了转换后的SNN提供的最佳推理精度。
+  
+  
+  ## 2、近期前沿论文
+  
+  - [arxiv](https://arxiv.org/search/?query=snn&searchtype=all&source=header)
 
